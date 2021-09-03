@@ -2,20 +2,8 @@
     margin: 0;
     padding: 0;
 }
-.collapse{
- float: right;
- /* border: 1px solid white; */
- margin-bottom: 20px;
- margin-right: 30px;
- padding-bottom: 5px;
-} 
 
-.navbar{
-    height: 55px;
-}
-/* .carousel-item{ 
-    height: 520px;
-}*/
+
 h1{
     text-align: center;
     color:black;
@@ -76,9 +64,11 @@ h1{
 .footer{
     margin-top: 25px;
     height:80px;
+    width: 100%;
     text-align: center;
     color: white;
     background-color: black;
+    
 }
 .card-dst{
     height: 350px;
